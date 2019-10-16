@@ -1,0 +1,22 @@
+{
+  "name": "packagefolder",
+  "version": "1.0.0",
+  "description": "将文件夹打包成一个二进制文件",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongcaihu/packageFolder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongcaihu/packageFolder/issues"
+  },
+  "homepage": "https://github.com/xiongcaihu/packageFolder#readme",
+  "devDependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
